@@ -1,0 +1,10 @@
+.row{
+    display: flex;
+    justify-content: end;
+}
+
+#surfImg{
+    background-image: url("img/surfer.jpg");
+    background-size: cover;
+    height: 41rem;
+}
